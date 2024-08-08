@@ -18,4 +18,4 @@ fireblocks:
     aws_region: ""
     timeout: 0
 web3:
-    url: ""
+    url: "https://raw.githubusercontent.com/ahmad706/-eigenlayer_atiyahmad/main/metadata.json"
